@@ -1,0 +1,11 @@
+{
+  "org": "jaraco",
+  "repo": "jaraco.itertools",
+  "versions": [
+    {
+      "commit": "2712e916b2b70f43b940e072f446557caf21dd14",
+      "tag": "",
+      "parsed_at": "2026-10-18T01:57:49.084694+00:00"
+    }
+  ]
+}
