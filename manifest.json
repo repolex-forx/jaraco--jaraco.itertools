@@ -33,6 +33,43 @@
         "aggregate/ast/2712e916b2b70f43b940e072f446557caf21dd14/chunk-001.nq.gz"
       ],
       "repolex": "aggregate/repolex/2712e916b2b70f43b940e072f446557caf21dd14/chunk-001.nq.gz"
+    },
+    {
+      "commit": "cee7e54a836bc47a6cb5d291b19f0985036fd4a9",
+      "parsed_at": "2026-11-23T05:36:27.010005+00:00",
+      "tag": "v6.4.3",
+      "filetree": "filetree/cee7e54a836bc47a6cb5d291b19f0985036fd4a9.nq.gz",
+      "blobs": [
+        "blob/63c0825f6bd49615f4f386b95463111f7992f6bc.nq.gz",
+        "blob/53513eee9b3a2f4df50df1febd59a5206718995a.nq.gz",
+        "blob/efcb8cbc2043faa7caf4f92fc7488bd6914c934c.nq.gz",
+        "blob/1edccc762052a7d6856baab3a08b4ac3533e4393.nq.gz",
+        "blob/5bdc232005af9be104a00437ae9bc64417a4c1cc.nq.gz",
+        "blob/b62fb891c33d7fdb6092d680e906c93181c69533.nq.gz",
+        "blob/a7f603f3e07aeca7b637e6f7e7d12216fe6b3ecc.nq.gz",
+        "blob/304196f81e11a168c9894f966e4a617ebf4ed53c.nq.gz",
+        "blob/d53bbd1a771fc92a23e5c9262216d13961eccebb.nq.gz",
+        "blob/db4cebb634a92e476bb10b88320054ca6d271b4c.nq.gz",
+        "blob/577e87a793a20e413f7321f4f17ec1eba2ea1962.nq.gz",
+        "blob/1719cac69dd80d416e01752c2440e22957a50459.nq.gz",
+        "blob/14243051409fccc0404edd15a2c993e572626dd8.nq.gz",
+        "blob/724370638fc188317bbc7dc868f1a571995fd796.nq.gz",
+        "blob/e05a3d4a2ab888e32952006d8cd380864368db5f.nq.gz",
+        "blob/2e3f4dd791a6372b427d618eb0baa8c4dc58e5f0.nq.gz",
+        "blob/54c9000ec94341dd65c2053251b85b124017b9b5.nq.gz",
+        "blob/54cc8303b22089e12053e552d4e6cb852a865b8a.nq.gz",
+        "blob/6461d3d1feac8a48aa6e1c17777f39f3e2d975a5.nq.gz",
+        "blob/633e3648e99a9faf806677e5a2aabe6036b29f7a.nq.gz",
+        "blob/e4c1d80d8278d90009849cd768cbb9b893a6ccb1.nq.gz",
+        "blob/700235be57c1b2872455c0be5333f59cf568e252.nq.gz",
+        "blob/43ace5be310745567fadbb5c624b7e52c69b7602.nq.gz",
+        "blob/9a0f3bce1395ae3819030b822e5d9076c85068ea.nq.gz",
+        "blob/6fa480e44f38768722368d7a986607adacf41d99.nq.gz",
+        "blob/1f2aa7533b0423a8eb943f6f4ec02498e39581a0.nq.gz",
+        "blob/d222b178d4e94682f7e559f809132df9041de36a.nq.gz",
+        "blob/7d67d09a8c908dd4e062b0a828ef732e1cdd6c8b.nq.gz",
+        "blob/5c05f9e27d57a4b7a3c3a9fdfecf8cddb8be499f.nq.gz"
+      ]
     }
   ],
   "commit": "commit/commit.nq.gz",
